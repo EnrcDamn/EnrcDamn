@@ -8,11 +8,11 @@
 </div>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/bccb46199b1814324980afce00f4fb23/tumblr_p05avlHqlt1uy5z3wo1_1280.gif" width="400"/>
+  <img src="https://64.media.tumblr.com/bccb46199b1814324980afce00f4fb23/tumblr_p05avlHqlt1uy5z3wo1_1280.gif" width="300"/>
 </div>
 
 <h3 align="center">
-  Hi there! Welcome on my repository :wave:	
+  Hi there! Welcome on my github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>	
 </h3>
 
 ### About me:
@@ -24,4 +24,4 @@
 
 - :musical_keyboard::guitar:	Synth, guitar & other music gear lover.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enrico-damiani-1a9a55178/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/enrico-damiani-1a9a55178/)
