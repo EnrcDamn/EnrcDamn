@@ -16,11 +16,11 @@
 </h3>
 
 ### About me:
-- :telescope: I’m a humble programmer focusing on audio applications and DSP.
+- :telescope: Humble programmer focusing on audio applications and DSP.
 
 - :robot::studio_microphone: Passionate about everything lying in the intersections of music, AI and speech.
 
-- :computer::book:	I'm constantly trying to keep myself up to date with the latest advancements in the machine learning field.
+- :computer::book:	Constantly trying to stay up-to-date with the advancements in AI and technology.
 
 - :musical_keyboard::guitar:	Synth, guitar & other music gear lover.
 
