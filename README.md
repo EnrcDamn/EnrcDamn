@@ -12,10 +12,11 @@ LINK BADGES:
 
 <!--
 VIEWS COUNT:
--->
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=EnrcDamn&style=flat-square&color=yellow" alt=""/>
 </div>
+-->
 
 <!--
 FRONTPAGE IMAGE:
