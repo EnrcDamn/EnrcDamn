@@ -37,7 +37,7 @@ WELCOME:
 
 - :robot::studio_microphone: Passionate about everything lying in the intersections of music, AI and speech.
 
-- :computer::book:	Constantly trying to stay up-to-date with the advancements in AI and technology.
+- :computer::book:	Constantly trying to stay up-to-date with advancements in AI and technology.
 
 - :musical_keyboard::guitar:	Synth, guitar & other music gear lover.
 
