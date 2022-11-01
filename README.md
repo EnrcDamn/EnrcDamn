@@ -36,7 +36,7 @@ WELCOME:
 ### About me:
 - :telescope: Humble programmer focusing on audio applications and DSP.
 
-- :robot::studio_microphone: Passionate about everything lying in the intersections of music, AI and speech.
+- :microphone::robot: Passionate about everything lying in the intersections of music, AI and speech.
 
 - :computer::book:	Constantly trying to stay up-to-date with advancements in AI and technology.
 
