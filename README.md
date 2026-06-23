@@ -34,7 +34,7 @@ WELCOME:
 
 
 ### About me:
-- :telescope: Humble programmer focusing on audio applications and DSP.
+- :telescope: Humble programmer experimenting with whatever picks his curiosity.
 
 - :microphone::robot: Passionate about everything lying in the intersections of music, AI and speech.
 
